@@ -1,0 +1,496 @@
+account_id,plan_tier,tenure_months,region,referral_source
+CUST-0001,Business,26,LATAM,Paid Ads
+CUST-0002,Pro,31,NA,Paid Ads
+CUST-0003,Free,18,APAC,Partner
+CUST-0004,Business,25,LATAM,Referral
+CUST-0005,Free,11,APAC,Paid Ads
+CUST-0006,Business,42,APAC,Partner
+CUST-0007,Free,59,LATAM,Paid Ads
+CUST-0008,Pro,7,LATAM,Referral
+CUST-0009,Pro,13,NA,Paid Ads
+CUST-0010,Free,28,APAC,Organic
+CUST-0011,Free,12,NA,Organic
+CUST-0012,Business,31,EU,Paid Ads
+CUST-0013,Free,51,LATAM,Organic
+CUST-0014,Business,44,LATAM,Referral
+CUST-0015,Business,8,LATAM,Paid Ads
+CUST-0016,Pro,50,LATAM,Referral
+CUST-0017,Free,57,NA,
+CUST-0018,Free,31,EU,Paid Ads
+CUST-0019,Business,9,EU,Organic
+CUST-0020,Pro,30,NA,
+CUST-0021,Free,18,NA,Organic
+CUST-0022,Pro,37,NA,Partner
+CUST-0023,Business,24,LATAM,Referral
+CUST-0024,Free,11,EU,Referral
+CUST-0025,Business,50,LATAM,Referral
+CUST-0026,Free,29,APAC,Partner
+CUST-0027,Pro,15,NA,
+CUST-0028,Business,48,NA,Referral
+CUST-0029,Free,11,EU,Organic
+CUST-0030,Free,8,LATAM,Partner
+CUST-0031,Pro,20,EU,
+CUST-0032,Business,5,APAC,Paid Ads
+CUST-0033,Pro,53,LATAM,Partner
+CUST-0034,Business,9,EU,Paid Ads
+CUST-0035,Pro,1,NA,Paid Ads
+CUST-0036,Pro,30,LATAM,Paid Ads
+CUST-0037,Business,40,LATAM,Paid Ads
+CUST-0038,Pro,46,NA,Referral
+CUST-0039,Business,40,EU,Paid Ads
+CUST-0040,Free,37,NA,Referral
+CUST-0041,Pro,12,EU,Organic
+CUST-0042,Pro,47,EU,Partner
+CUST-0043,Business,21,APAC,Paid Ads
+CUST-0044,Pro,35,APAC,Referral
+CUST-0045,Free,25,LATAM,Partner
+CUST-0046,Free,9,APAC,Organic
+CUST-0047,Pro,34,LATAM,Paid Ads
+CUST-0048,Free,16,NA,Partner
+CUST-0049,Free,18,NA,Partner
+CUST-0050,Free,47,EU,Organic
+CUST-0051,Free,51,NA,Referral
+CUST-0052,Pro,33,EU,Partner
+CUST-0053,Pro,26,EU,Paid Ads
+CUST-0054,Free,20,APAC,Organic
+CUST-0055,Business,47,NA,Referral
+CUST-0056,Pro,2,LATAM,Referral
+CUST-0057,Business,41,APAC,
+CUST-0058,Business,46,EU,
+CUST-0059,Pro,33,LATAM,Referral
+CUST-0060,Free,32,APAC,Referral
+CUST-0061,Pro,6,NA,Organic
+CUST-0062,Pro,57,EU,Organic
+CUST-0063,Pro,49,LATAM,
+CUST-0064,Free,17,NA,Partner
+CUST-0065,Business,47,NA,Partner
+CUST-0066,Pro,34,NA,Organic
+CUST-0067,Business,59,LATAM,Paid Ads
+CUST-0068,Business,16,EU,Paid Ads
+CUST-0069,Free,7,NA,Paid Ads
+CUST-0070,Pro,58,EU,Paid Ads
+CUST-0071,Free,44,LATAM,Referral
+CUST-0072,Business,43,APAC,Paid Ads
+CUST-0073,Free,17,NA,Organic
+CUST-0074,Pro,20,NA,Partner
+CUST-0075,Pro,19,NA,Referral
+CUST-0076,Pro,58,APAC,Referral
+CUST-0077,Free,15,APAC,Partner
+CUST-0078,Business,37,APAC,Organic
+CUST-0079,Business,51,APAC,Referral
+CUST-0080,Pro,18,NA,Partner
+CUST-0081,Business,53,EU,
+CUST-0082,Business,33,EU,Partner
+CUST-0083,Pro,53,EU,Paid Ads
+CUST-0084,Free,26,EU,Paid Ads
+CUST-0085,Pro,3,EU,Referral
+CUST-0086,Pro,51,EU,Referral
+CUST-0087,Business,18,LATAM,Paid Ads
+CUST-0088,Pro,10,EU,Organic
+CUST-0089,Business,9,EU,Organic
+CUST-0090,Business,17,LATAM,Organic
+CUST-0091,Pro,50,APAC,
+CUST-0092,Free,48,LATAM,Paid Ads
+CUST-0093,Pro,58,NA,Referral
+CUST-0094,Free,52,APAC,Referral
+CUST-0095,Free,16,NA,Referral
+CUST-0096,Free,22,EU,Partner
+CUST-0097,Free,54,LATAM,Organic
+CUST-0098,Pro,17,APAC,Paid Ads
+CUST-0099,Pro,50,LATAM,Partner
+CUST-0100,Pro,6,APAC,Paid Ads
+CUST-0101,Pro,44,EU,Paid Ads
+CUST-0102,Business,56,LATAM,Paid Ads
+CUST-0103,Free,22,APAC,
+CUST-0104,Free,59,LATAM,Partner
+CUST-0105,Free,12,EU,Organic
+CUST-0106,Free,36,LATAM,Partner
+CUST-0107,Pro,57,NA,Referral
+CUST-0108,Free,47,APAC,
+CUST-0109,Pro,6,LATAM,Referral
+CUST-0110,Business,12,EU,Paid Ads
+CUST-0111,Pro,9,APAC,Organic
+CUST-0112,Free,41,APAC,Organic
+CUST-0113,Pro,9,APAC,Referral
+CUST-0114,Free,18,EU,
+CUST-0115,Business,4,LATAM,Referral
+CUST-0116,Free,39,NA,
+CUST-0117,Business,27,NA,Partner
+CUST-0118,Business,56,LATAM,Partner
+CUST-0119,Business,11,EU,Organic
+CUST-0120,Pro,3,NA,Referral
+CUST-0121,Business,20,EU,Partner
+CUST-0122,Business,26,APAC,Organic
+CUST-0123,Pro,4,EU,Paid Ads
+CUST-0124,Pro,12,APAC,Referral
+CUST-0125,Pro,8,LATAM,Organic
+CUST-0126,Pro,32,EU,
+CUST-0127,Free,56,EU,Organic
+CUST-0128,Pro,13,APAC,Paid Ads
+CUST-0129,Free,20,EU,Referral
+CUST-0130,Pro,18,EU,Referral
+CUST-0131,Free,18,EU,Paid Ads
+CUST-0132,Pro,58,APAC,Partner
+CUST-0133,Pro,22,APAC,Referral
+CUST-0134,Business,4,EU,Paid Ads
+CUST-0135,Free,5,EU,Partner
+CUST-0136,Business,36,NA,Partner
+CUST-0137,Pro,1,APAC,Partner
+CUST-0138,Free,14,LATAM,Paid Ads
+CUST-0139,Free,38,LATAM,
+CUST-0140,Free,60,LATAM,Referral
+CUST-0141,Pro,5,NA,Paid Ads
+CUST-0142,Pro,53,EU,Paid Ads
+CUST-0143,Business,30,APAC,Paid Ads
+CUST-0144,Free,24,EU,Organic
+CUST-0145,Free,49,NA,Referral
+CUST-0146,Pro,3,NA,Paid Ads
+CUST-0147,Free,34,NA,Referral
+CUST-0148,Pro,43,LATAM,Referral
+CUST-0149,Business,30,NA,Paid Ads
+CUST-0150,Pro,28,NA,Organic
+CUST-0151,Pro,31,EU,Paid Ads
+CUST-0152,Free,52,EU,Organic
+CUST-0153,Free,1,APAC,Paid Ads
+CUST-0154,Business,47,APAC,Paid Ads
+CUST-0155,Business,10,LATAM,Partner
+CUST-0156,Free,44,NA,Organic
+CUST-0157,Pro,39,NA,Organic
+CUST-0158,Business,56,EU,Paid Ads
+CUST-0159,Pro,14,NA,Referral
+CUST-0160,Business,56,APAC,
+CUST-0161,Free,12,NA,Paid Ads
+CUST-0162,Free,31,APAC,
+CUST-0163,Business,43,EU,Paid Ads
+CUST-0164,Business,52,APAC,
+CUST-0165,Free,52,NA,Paid Ads
+CUST-0166,Pro,55,EU,Partner
+CUST-0167,Pro,49,EU,Partner
+CUST-0168,Free,23,EU,Partner
+CUST-0169,Business,30,EU,Partner
+CUST-0170,Free,44,EU,Organic
+CUST-0171,Free,24,NA,Partner
+CUST-0172,Pro,18,EU,Paid Ads
+CUST-0173,Free,17,NA,Paid Ads
+CUST-0174,Pro,25,LATAM,Organic
+CUST-0175,Free,20,APAC,Referral
+CUST-0176,Business,60,EU,Paid Ads
+CUST-0177,Business,54,LATAM,Organic
+CUST-0178,Business,26,APAC,Organic
+CUST-0179,Business,43,NA,Organic
+CUST-0180,Free,36,LATAM,Referral
+CUST-0181,Business,25,EU,Organic
+CUST-0182,Business,45,LATAM,Partner
+CUST-0183,Pro,49,NA,Partner
+CUST-0184,Free,51,EU,Paid Ads
+CUST-0185,Pro,50,EU,Paid Ads
+CUST-0186,Free,7,LATAM,Organic
+CUST-0187,Business,53,NA,Organic
+CUST-0188,Free,52,EU,Paid Ads
+CUST-0189,Free,25,APAC,Paid Ads
+CUST-0190,Pro,4,EU,Organic
+CUST-0191,Pro,52,LATAM,Organic
+CUST-0192,Free,8,LATAM,Partner
+CUST-0193,Free,4,LATAM,Referral
+CUST-0194,Free,35,EU,Paid Ads
+CUST-0195,Pro,59,LATAM,Partner
+CUST-0196,Free,13,NA,Partner
+CUST-0197,Free,32,NA,Organic
+CUST-0198,Business,59,EU,Paid Ads
+CUST-0199,Business,16,APAC,Referral
+CUST-0200,Free,41,LATAM,Partner
+CUST-0201,Business,31,EU,Referral
+CUST-0202,Business,19,NA,Referral
+CUST-0203,Pro,3,LATAM,Organic
+CUST-0204,Free,28,LATAM,Referral
+CUST-0205,Pro,43,NA,Organic
+CUST-0206,Pro,12,NA,Partner
+CUST-0207,Free,43,APAC,Paid Ads
+CUST-0208,Free,52,NA,Organic
+CUST-0209,Pro,43,LATAM,Partner
+CUST-0210,Pro,38,EU,Partner
+CUST-0211,Pro,39,NA,Referral
+CUST-0212,Pro,6,EU,Organic
+CUST-0213,Business,58,NA,Paid Ads
+CUST-0214,Pro,56,LATAM,
+CUST-0215,Free,9,NA,Organic
+CUST-0216,Free,52,LATAM,Paid Ads
+CUST-0217,Pro,57,EU,Paid Ads
+CUST-0218,Free,50,EU,Partner
+CUST-0219,Free,43,APAC,Referral
+CUST-0220,Business,21,EU,Organic
+CUST-0221,Pro,28,EU,Organic
+CUST-0222,Pro,1,LATAM,Referral
+CUST-0223,Free,52,NA,Partner
+CUST-0224,Business,44,NA,Referral
+CUST-0225,Pro,60,EU,Partner
+CUST-0226,Free,45,LATAM,Paid Ads
+CUST-0227,Free,7,NA,Organic
+CUST-0228,Free,21,NA,Organic
+CUST-0229,Business,60,LATAM,Partner
+CUST-0230,Free,49,EU,Referral
+CUST-0231,Business,56,EU,Paid Ads
+CUST-0232,Free,48,LATAM,Paid Ads
+CUST-0233,Free,6,NA,Partner
+CUST-0234,Free,47,NA,Paid Ads
+CUST-0235,Pro,13,NA,Referral
+CUST-0236,Free,9,EU,Organic
+CUST-0237,Business,27,NA,Organic
+CUST-0238,Pro,25,NA,Partner
+CUST-0239,Business,41,EU,Organic
+CUST-0240,Free,19,EU,Referral
+CUST-0241,Pro,21,NA,Partner
+CUST-0242,Business,57,LATAM,Organic
+CUST-0243,Free,9,NA,Paid Ads
+CUST-0244,Pro,8,APAC,Partner
+CUST-0245,Free,43,LATAM,Organic
+CUST-0246,Free,26,EU,Organic
+CUST-0247,Business,33,APAC,Paid Ads
+CUST-0248,Business,4,NA,Organic
+CUST-0249,Business,59,EU,Organic
+CUST-0250,Pro,31,APAC,Paid Ads
+CUST-0251,Free,14,APAC,Partner
+CUST-0252,Pro,57,LATAM,Organic
+CUST-0253,Business,22,EU,Paid Ads
+CUST-0254,Free,55,APAC,Partner
+CUST-0255,Business,45,APAC,Paid Ads
+CUST-0256,Free,15,LATAM,Paid Ads
+CUST-0257,Pro,4,LATAM,Paid Ads
+CUST-0258,Free,18,LATAM,Referral
+CUST-0259,Free,50,LATAM,Organic
+CUST-0260,Free,44,LATAM,Referral
+CUST-0261,Free,15,NA,Organic
+CUST-0262,Free,50,NA,Referral
+CUST-0263,Pro,55,LATAM,Referral
+CUST-0264,Free,29,NA,Paid Ads
+CUST-0265,Pro,47,NA,Partner
+CUST-0266,Free,34,APAC,Paid Ads
+CUST-0267,Business,24,NA,Organic
+CUST-0268,Pro,38,EU,Paid Ads
+CUST-0269,Free,17,EU,Organic
+CUST-0270,Pro,35,EU,Partner
+CUST-0271,Pro,22,EU,Organic
+CUST-0272,Pro,47,NA,Partner
+CUST-0273,Business,39,LATAM,Referral
+CUST-0274,Pro,54,EU,Referral
+CUST-0275,Pro,20,LATAM,Organic
+CUST-0276,Business,20,LATAM,Referral
+CUST-0277,Business,28,EU,Referral
+CUST-0278,Free,39,EU,Referral
+CUST-0279,Business,59,NA,Referral
+CUST-0280,Pro,15,LATAM,Paid Ads
+CUST-0281,Business,20,EU,Paid Ads
+CUST-0282,Business,60,LATAM,Paid Ads
+CUST-0283,Free,33,NA,Partner
+CUST-0284,Free,49,EU,Paid Ads
+CUST-0285,Pro,34,EU,Organic
+CUST-0286,Pro,11,APAC,Partner
+CUST-0287,Pro,37,NA,
+CUST-0288,Free,23,LATAM,Referral
+CUST-0289,Free,53,LATAM,Partner
+CUST-0290,Free,56,APAC,Organic
+CUST-0291,Free,26,NA,Partner
+CUST-0292,Business,19,EU,Paid Ads
+CUST-0293,Business,23,EU,Partner
+CUST-0294,Business,23,EU,Referral
+CUST-0295,Pro,39,LATAM,Paid Ads
+CUST-0296,Business,29,NA,
+CUST-0297,Business,58,EU,Paid Ads
+CUST-0298,Business,55,LATAM,Paid Ads
+CUST-0299,Business,56,NA,Partner
+CUST-0300,Business,5,APAC,Partner
+CUST-0301,Free,8,NA,Referral
+CUST-0302,Business,18,NA,Partner
+CUST-0303,Business,48,EU,Referral
+CUST-0304,Business,43,LATAM,Referral
+CUST-0305,Pro,15,APAC,Referral
+CUST-0306,Pro,39,LATAM,Organic
+CUST-0307,Free,2,EU,Referral
+CUST-0308,Business,58,NA,Referral
+CUST-0309,Free,21,APAC,Organic
+CUST-0310,Pro,59,NA,Organic
+CUST-0311,Pro,55,NA,Partner
+CUST-0312,Free,54,EU,Organic
+CUST-0313,Free,7,APAC,Referral
+CUST-0314,Free,44,EU,Partner
+CUST-0315,Business,31,NA,
+CUST-0316,Pro,42,APAC,Paid Ads
+CUST-0317,Free,5,NA,Organic
+CUST-0318,Business,17,APAC,Referral
+CUST-0319,Pro,18,APAC,Paid Ads
+CUST-0320,Free,40,LATAM,Partner
+CUST-0321,Pro,46,APAC,Referral
+CUST-0322,Business,7,APAC,Referral
+CUST-0323,Free,39,NA,Referral
+CUST-0324,Free,1,LATAM,Referral
+CUST-0325,Free,13,LATAM,Referral
+CUST-0326,Free,45,APAC,Referral
+CUST-0327,Free,13,EU,Organic
+CUST-0328,Free,56,NA,Referral
+CUST-0329,Pro,27,APAC,Referral
+CUST-0330,Business,8,APAC,Organic
+CUST-0331,Free,30,NA,Referral
+CUST-0332,Pro,18,NA,Organic
+CUST-0333,Free,17,LATAM,
+CUST-0334,Pro,9,LATAM,Paid Ads
+CUST-0335,Free,45,NA,Paid Ads
+CUST-0336,Business,49,APAC,Partner
+CUST-0337,Business,26,NA,Partner
+CUST-0338,Free,18,LATAM,Partner
+CUST-0339,Free,43,EU,Organic
+CUST-0340,Free,44,LATAM,Paid Ads
+CUST-0341,Pro,56,NA,Paid Ads
+CUST-0342,Business,60,LATAM,Organic
+CUST-0343,Business,58,LATAM,Partner
+CUST-0344,Business,14,LATAM,Organic
+CUST-0345,Free,21,NA,Paid Ads
+CUST-0346,Free,3,LATAM,
+CUST-0347,Free,20,EU,Organic
+CUST-0348,Free,1,NA,
+CUST-0349,Business,23,APAC,Referral
+CUST-0350,Pro,33,LATAM,Partner
+CUST-0351,Business,60,APAC,Paid Ads
+CUST-0352,Pro,55,EU,Organic
+CUST-0353,Free,10,LATAM,Organic
+CUST-0354,Free,39,NA,Referral
+CUST-0355,Pro,15,NA,Partner
+CUST-0356,Free,23,LATAM,Referral
+CUST-0357,Business,53,LATAM,Organic
+CUST-0358,Business,23,APAC,Referral
+CUST-0359,Pro,40,LATAM,Organic
+CUST-0360,Pro,3,APAC,
+CUST-0361,Business,41,EU,Paid Ads
+CUST-0362,Pro,39,EU,Paid Ads
+CUST-0363,Business,42,NA,Partner
+CUST-0364,Free,50,EU,Paid Ads
+CUST-0365,Business,58,APAC,
+CUST-0366,Business,32,APAC,Paid Ads
+CUST-0367,Business,60,LATAM,Organic
+CUST-0368,Business,55,APAC,Organic
+CUST-0369,Free,40,EU,Paid Ads
+CUST-0370,Free,36,EU,Referral
+CUST-0371,Pro,29,APAC,
+CUST-0372,Business,14,APAC,Organic
+CUST-0373,Free,22,NA,Partner
+CUST-0374,Business,29,LATAM,Paid Ads
+CUST-0375,Pro,41,NA,Partner
+CUST-0376,Pro,12,LATAM,Organic
+CUST-0377,Free,31,APAC,Organic
+CUST-0378,Free,38,LATAM,Paid Ads
+CUST-0379,Pro,26,EU,Partner
+CUST-0380,Pro,38,APAC,Referral
+CUST-0381,Pro,40,EU,Referral
+CUST-0382,Business,39,APAC,Referral
+CUST-0383,Free,49,EU,Paid Ads
+CUST-0384,Free,17,NA,Referral
+CUST-0385,Free,54,NA,Referral
+CUST-0386,Free,52,EU,Paid Ads
+CUST-0387,Business,31,APAC,Referral
+CUST-0388,Business,57,APAC,Partner
+CUST-0389,Free,4,EU,Paid Ads
+CUST-0390,Business,28,EU,
+CUST-0391,Pro,32,LATAM,Referral
+CUST-0392,Business,60,APAC,Paid Ads
+CUST-0393,Business,23,NA,Referral
+CUST-0394,Pro,25,EU,Referral
+CUST-0395,Free,57,EU,Paid Ads
+CUST-0396,Free,39,APAC,Organic
+CUST-0397,Free,44,LATAM,Paid Ads
+CUST-0398,Pro,51,APAC,Partner
+CUST-0399,Free,58,NA,Referral
+CUST-0400,Business,5,LATAM,Paid Ads
+CUST-0401,Business,44,LATAM,Organic
+CUST-0402,Business,20,APAC,Referral
+CUST-0403,Business,24,EU,Paid Ads
+CUST-0404,Business,7,LATAM,Paid Ads
+CUST-0405,Business,60,NA,Referral
+CUST-0406,Business,59,LATAM,Paid Ads
+CUST-0407,Free,53,NA,Paid Ads
+CUST-0408,Free,24,NA,Referral
+CUST-0409,Pro,2,EU,Organic
+CUST-0410,Pro,23,EU,Organic
+CUST-0411,Free,22,NA,Paid Ads
+CUST-0412,Pro,44,APAC,Organic
+CUST-0413,Business,13,EU,Referral
+CUST-0414,Pro,43,EU,Organic
+CUST-0415,Business,17,NA,Organic
+CUST-0416,Pro,9,NA,Referral
+CUST-0417,Free,29,APAC,Referral
+CUST-0418,Pro,51,LATAM,Referral
+CUST-0419,Free,45,LATAM,Paid Ads
+CUST-0420,Free,55,EU,Paid Ads
+CUST-0421,Business,26,EU,
+CUST-0422,Free,45,NA,Referral
+CUST-0423,Business,14,NA,Organic
+CUST-0424,Free,35,EU,Paid Ads
+CUST-0425,Free,21,APAC,Referral
+CUST-0426,Business,47,NA,Organic
+CUST-0427,Free,54,EU,Paid Ads
+CUST-0428,Pro,5,APAC,Partner
+CUST-0429,Free,6,APAC,Organic
+CUST-0430,Business,60,EU,Partner
+CUST-0431,Free,48,LATAM,
+CUST-0432,Free,41,EU,Paid Ads
+CUST-0433,Free,38,APAC,Partner
+CUST-0434,Business,36,NA,Paid Ads
+CUST-0435,Pro,17,APAC,Partner
+CUST-0436,Pro,17,NA,Referral
+CUST-0437,Business,18,NA,Paid Ads
+CUST-0438,Business,22,LATAM,Paid Ads
+CUST-0439,Business,4,LATAM,Organic
+CUST-0440,Free,10,LATAM,Organic
+CUST-0441,Pro,28,LATAM,Paid Ads
+CUST-0442,Pro,37,NA,Organic
+CUST-0443,Free,30,APAC,Organic
+CUST-0444,Free,59,APAC,Paid Ads
+CUST-0445,Free,6,APAC,Partner
+CUST-0446,Free,33,APAC,Organic
+CUST-0447,Free,15,APAC,Organic
+CUST-0448,Free,26,EU,Organic
+CUST-0449,Pro,59,EU,Paid Ads
+CUST-0450,Pro,27,APAC,
+CUST-0451,Pro,36,NA,Referral
+CUST-0452,Business,30,LATAM,Referral
+CUST-0453,Pro,13,APAC,Referral
+CUST-0454,Free,17,NA,Organic
+CUST-0455,Free,10,LATAM,Referral
+CUST-0456,Free,13,LATAM,Referral
+CUST-0457,Pro,3,LATAM,Referral
+CUST-0458,Free,2,LATAM,Partner
+CUST-0459,Free,57,APAC,Referral
+CUST-0460,Business,60,NA,Organic
+CUST-0461,Pro,16,NA,Partner
+CUST-0462,Pro,55,APAC,Referral
+CUST-0463,Pro,34,APAC,Paid Ads
+CUST-0464,Business,40,EU,Partner
+CUST-0465,Free,49,LATAM,
+CUST-0466,Free,28,APAC,Partner
+CUST-0467,Free,53,LATAM,Organic
+CUST-0468,Free,43,NA,Organic
+CUST-0469,Free,53,APAC,Organic
+CUST-0470,Pro,29,NA,Referral
+CUST-0471,Free,58,NA,Referral
+CUST-0472,Business,19,LATAM,Referral
+CUST-0473,Business,5,EU,Paid Ads
+CUST-0474,Pro,24,EU,Organic
+CUST-0475,Free,26,EU,Organic
+CUST-0476,Free,39,LATAM,
+CUST-0477,Pro,19,APAC,Partner
+CUST-0478,Pro,21,LATAM,Organic
+CUST-0479,Business,27,LATAM,Organic
+CUST-0480,Business,50,NA,Organic
+CUST-0481,Business,19,APAC,Referral
+CUST-0482,Pro,34,EU,Partner
+CUST-0483,Pro,5,LATAM,Partner
+CUST-0484,Free,36,APAC,Organic
+CUST-0485,Business,51,EU,Paid Ads
+CUST-0486,Free,21,NA,Partner
+CUST-0487,Business,38,LATAM,Organic
+CUST-0488,Business,50,EU,Paid Ads
+CUST-0489,Pro,39,APAC,Partner
+CUST-0490,Pro,27,EU,Referral
+CUST-0491,Pro,9,APAC,Organic
+CUST-0492,Free,46,NA,Partner
+CUST-0493,Free,40,LATAM,Paid Ads
+CUST-0494,Business,48,LATAM,Organic
+CUST-0495,Business,6,EU,Referral
